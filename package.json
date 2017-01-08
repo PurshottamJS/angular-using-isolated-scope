@@ -8,7 +8,7 @@
     "description": "This project demonstrate how to use isolated scope in angularjs.",
     "author": {
         "name": "Purshottam Sharma",
-        "email": "purshottam.indore@gmail.com",
+        "email": "purshottam.indore@gmail.com"
     },
     "repository": {
         "type": "git",
